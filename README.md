@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @popo1897
+- 👋 Hi, I’m Jia. 
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning data science in ITC, Tel Aviv. 
 - 💞️ I’m looking to collaborate on ...
